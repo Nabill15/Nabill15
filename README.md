@@ -19,7 +19,8 @@ I am passionate about **computer networking, cyber security, and technology**. I
 
 ## 🛠️ Technologies and Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,vscode,linux" alt="Technologies and Tools" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,vscode,linux" alt="Technologies and Tools" />
+&nbsp; <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco Packet Tracer" width="60" height="48" /></p>
 
 | Technology/Tool         | Usage                                         |
 | ----------------------- | --------------------------------------------- |
