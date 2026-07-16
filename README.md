@@ -62,7 +62,7 @@ I am passionate about **computer networking, cyber security, and technology**. I
     <img src="https://img.shields.io/badge/Instagram-@muhnabil__15-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/Muhammad%20Nabil%20Bassalam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Nabil%20Bassalam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad-Nabil-Bassalam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
