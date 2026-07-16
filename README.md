@@ -19,7 +19,7 @@ I am passionate about **computer networking, cyber security, and technology**. I
 
 ## 🛠️ Technologies and Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,vscode" alt="Python and Visual Studio Code" height="48" /> <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="48" height="48" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,vscode,linux" alt="Technologies and Tools" /> </p>
 
 | Technology/Tool         | Usage                                         |
 | ----------------------- | --------------------------------------------- |
