@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Nabil Bassalam 👋
+# Hi, I'm Muhammad Nabil Bassalam 
 
 ## Network & Cyber Security Enthusiast
 
